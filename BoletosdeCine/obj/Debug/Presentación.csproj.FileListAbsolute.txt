@@ -1,0 +1,10 @@
+C:\Users\Anibal\OneDrive\Escritorio\Proyecto Optativo III\BoletosdeCine\bin\Debug\BoletosdeCine.exe.config
+C:\Users\Anibal\OneDrive\Escritorio\Proyecto Optativo III\BoletosdeCine\bin\Debug\BoletosdeCine.exe
+C:\Users\Anibal\OneDrive\Escritorio\Proyecto Optativo III\BoletosdeCine\bin\Debug\BoletosdeCine.pdb
+C:\Users\Anibal\OneDrive\Escritorio\Proyecto Optativo III\BoletosdeCine\obj\Debug\Presentación.csproj.AssemblyReference.cache
+C:\Users\Anibal\OneDrive\Escritorio\Proyecto Optativo III\BoletosdeCine\obj\Debug\Presentación.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anibal\OneDrive\Escritorio\Proyecto Optativo III\BoletosdeCine\obj\Debug\BoletosdeCine.Properties.Resources.resources
+C:\Users\Anibal\OneDrive\Escritorio\Proyecto Optativo III\BoletosdeCine\obj\Debug\Presentación.csproj.GenerateResource.cache
+C:\Users\Anibal\OneDrive\Escritorio\Proyecto Optativo III\BoletosdeCine\obj\Debug\Presentación.csproj.CoreCompileInputs.cache
+C:\Users\Anibal\OneDrive\Escritorio\Proyecto Optativo III\BoletosdeCine\obj\Debug\BoletosdeCine.exe
+C:\Users\Anibal\OneDrive\Escritorio\Proyecto Optativo III\BoletosdeCine\obj\Debug\BoletosdeCine.pdb

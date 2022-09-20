@@ -1,0 +1,6 @@
+C:\Users\Anibal\OneDrive\Escritorio\Proyecto Optativo III\BoletosdeCine\Negocios\bin\Debug\Negocios.dll
+C:\Users\Anibal\OneDrive\Escritorio\Proyecto Optativo III\BoletosdeCine\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Anibal\OneDrive\Escritorio\Proyecto Optativo III\BoletosdeCine\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+C:\Users\Anibal\OneDrive\Escritorio\Proyecto Optativo III\BoletosdeCine\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\Anibal\OneDrive\Escritorio\Proyecto Optativo III\BoletosdeCine\Negocios\obj\Debug\Negocios.dll
+C:\Users\Anibal\OneDrive\Escritorio\Proyecto Optativo III\BoletosdeCine\Negocios\obj\Debug\Negocios.pdb
